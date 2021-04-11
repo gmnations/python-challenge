@@ -1,0 +1,7 @@
+--Super Financial Awesome Record--
+----------------------------------
+Total Months: 86
+Total: $671099.00
+Average Change: 7803.48
+Greatest Increase in Profits: Feb-2012 1926159.00
+Greatest Decrease in Profits: Sep-2013 -2196167.00
